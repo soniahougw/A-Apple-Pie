@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About — A Apple Pie</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>A Apple Pie</h1>
+    <div class="page-count" aria-hidden="false">Page 2 of 2</div>
+  </header>
+
+  <main>
+    <article class="content">
+      <h2>About this site</h2>
+      <p>This simple demo site shows a gallery component that can click through 15 images. The same gallery is included on both pages to demonstrate reuse.</p>
+
+      <section class="gallery-container" data-gallery="images/p1.jpg,images/p2.jpg,images/p3.jpg,images/p4.jpg,images/p5.jpg,images/p6.jpg,images/p7.jpg,images/p8.jpg,images/p9.jpg,images/p10.jpg,images/p11.jpg,images/p12.jpg,images/p13.jpg,images/p14.jpg,images/p15.jpg">
+        <div class="viewer single-view">
+          <button class="btn prev" aria-label="Previous">◀</button>
+          <img class="main-image" src="images/p1.jpg" alt="Gallery image">
+          <button class="btn next" aria-label="Next">▶</button>
+        </div>
+      </section>
+
+    </article>
+  </main>
+
+  <script src="js/gallery.js"></script>
+</body>
+</html>
