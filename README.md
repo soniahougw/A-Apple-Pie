@@ -4,6 +4,7 @@ This small static site demonstrates a reusable gallery component that allows cli
 
 Files:
 - css/styles.css — basic styling
+- index.html
 - js/gallery.js — gallery logic (prev/next, keyboard)
 - images
 
