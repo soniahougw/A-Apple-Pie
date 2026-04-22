@@ -1,6 +1,6 @@
-A Apple Pie — Historical digital narrative
+_A Apple Pie_ — Historical digital narrative
 
-This small static site demonstrates a reusable gallery component that allows clicking through 15 images on each page.
+This website shows all the page images of the GW Museum collection, _A Apple Pie_, a handmade cloth, hand stitched books made in 1880-1920. On each page, there is reference writing below the image to explain and reveal the gruesome history that made this book.
 
 Files:
 - css/styles.css — basic styling
